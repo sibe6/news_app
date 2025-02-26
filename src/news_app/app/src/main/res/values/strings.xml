@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uutissovellus</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_settings">Asetukset</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string name="main_news">Pääuutiset</string>
+    <string name="latest_news">Tuoreimmat uutiset</string>
+    <string name="most_read_news">Luetuimmat uutiset</string>
+
+    <string name="settings">Asetukset</string>
+
+    <string name="language">Kieli</string>
+
+    <string-array name="language_names">
+        <item>Suomi</item>
+        <item>Englanti</item>
+    </string-array>
+    <string-array name="language_values">
+        <item>""</item>
+        <item>"en"</item>
+    </string-array>
+    <string name="current_language">Suomi</string>
+
+    <string name="menutitle">Yle Uutiset</string>
+    <string name="welcome">Tervetuloa</string>
+
+    <string name="dialog_desc">Tervetuloa uutissovellukseen</string>
+    <string name="dialog_continue">Jatka</string>
+    <string name="do_not_show_again">Älä näytä uudelleen</string>
+
+</resources>
